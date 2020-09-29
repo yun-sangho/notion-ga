@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "name": "notion-ga",
-  "alias": ["notion-ga"],
   "builds": [{ "src": "**/*.js", "use": "@vercel/node" }],
   "routes": [
     {

@@ -8,5 +8,11 @@
     "isbot": "^2.2.1",
     "querystring": "^0.2.0"
   },
-  "license": "MIT"
+  "scripts": {
+    "build": "vercel"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^20.1.1"
+  }
 }
